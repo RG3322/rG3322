@@ -47,5 +47,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 ---
+"What if the peace you're chasing in the future is buried under the noise you're choosing today?"
 
-> "I build, I learn, I iterate. Every day is a launchpad."
