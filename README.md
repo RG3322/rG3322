@@ -1,51 +1,67 @@
-<h1 align="center">rG33 this side 👋</h1>
-
 <p align="center">
-  I'm a self-taught Android developer passionate about building minimalist, functional apps using Jetpack Compose and Firebase. 
-  Curious by nature and committed to problem-solving, I'm currently working on launching my own app on the Play Store. 🚀
+  <img src="https://github.com/RG3322.png" width="120" style="border-radius:50%;" alt="RG3322 profile" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠 Skills & Tech Stack
-
-#### 💻 Languages
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-#### ⚙ Tools & Frameworks
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Retrofit](https://img.shields.io/badge/-Retrofit-3F51B5?style=flat)
-![REST API](https://img.shields.io/badge/-REST%20APIs-6DB33F?style=flat)
-![Coroutines](https://img.shields.io/badge/-Coroutines-0095D5?style=flat)
-![MVVM](https://img.shields.io/badge/-MVVM-blueviolet?style=flat)
-![XML](https://img.shields.io/badge/-XML-orange?style=flat)
-
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 🛠️ Tech Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,xml,firebase,jetpack,gradle,git,sqlite,linux,materialui" height="32" />
+</p>
+<ul>
+  <li>Android Native (Kotlin, Java, XML, Jetpack Compose)</li>
+  <li>Firebase (Auth, Firestore, Realtime DB, Crashlytics, Cloud Functions)</li>
+  <li>UI/UX, Material Design, Figma, Adobe XD</li>
+  <li>Clean Architecture (MVVM, DI, Coroutines, Flows)</li>
+</ul>
 
 ---
 
-### 📈 GitHub Stats
+## 💻 Software
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,vscode,androidstudio,postman,git" height="32" />
+</p>
+<ul>
+  <li>Figma, Adobe XD, Photoshop, Illustrator</li>
+  <li>VS Code, Android Studio, Postman, Git</li>
+</ul>
 
+---
+
+## 🎨 UI/UX & Design
+- Passion for minimal, functional interfaces.
+- Prototyping & wireframing in Figma/Adobe XD.
+- Focus on user-centered design.
+
+---
+
+## 🌱 Currently Learning
+- Advanced Android Jetpack libraries
+- Building scalable Firebase backends
+- MotionLayout & advanced UI animation
+- System design for mobile apps
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rG3322&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RG3322&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue-dark" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RG3322&theme=vue-dark" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RG3322&layout=compact&hide_title=true&theme=vue-dark" height="130"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+<p align="left">
+  <a href="https://rg3322.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
+</p>
 
----
-"What if the peace you're chasing in the future is buried under the noise you're choosing today?"
-
+<!--
+Feel free to update links and add/remove sections!
+-->
