@@ -1,13 +1,21 @@
 <p align="center">
   <img src="https://github.com/RG3322.png" width="120" style="border-radius:50%;" alt="RG3322 profile" /><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
+  <br>
+  <!-- Animated banner (change to your own GIF if you want) -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" style="max-width:100%;" />
 </p>
 
 ---
 
 ## 🛠️ Tech Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,xml,firebase,jetpack,gradle,git,sqlite,linux,materialui" height="32" />
+  <!-- Example animated tech GIFs, swap with your own if you want! -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height="32"/>
+  <img src="https://skillicons.dev/icons?i=xml,jetpack,gradle,git,sqlite,linux,materialui" height="32" />
 </p>
 <ul>
   <li>Android Native (Kotlin, Java, XML, Jetpack Compose)</li>
@@ -60,8 +68,10 @@
   <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
   <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
+  <!-- Example animated badge -->
+  <img src="https://img.shields.io/badge/Always%20Coding-000?style=flat-square&logo=github&logoColor=white&labelColor=black&color=black&label=⚡" alt="animated-badge" />
 </p>
 
 <!--
-Feel free to update links and add/remove sections!
+You can further personalize with your own GIFs, SVGs, and badge links!
 -->
