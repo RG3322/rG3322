@@ -81,7 +81,7 @@
     <a href="https://rg3322.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"/></a>
     <a href="mailto:raghavsankhyaan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
     <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
-    <a href="https://twitter.com/raghavsankhyaann"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
+    <a href="https://twitter.com/raghavsankhyaan"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
   </p>
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100"/>
 </details>
