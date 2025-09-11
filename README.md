@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://github.com/RG3322.png" width="120" style="border-radius:50%;" alt="RG3322 profile" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
+  <!-- Typing effect for intro line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
 </p>
 
 <p align="center">
- 
- 
-
+  <!-- Quote section -->
+  <b>Quote I live by</b> = <code>FCK IT, WE BALL.</code>
+</p>
 
 ---
 
