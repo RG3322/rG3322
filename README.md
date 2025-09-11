@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/RG3322.png" width="120" style="border-radius:50%;" alt="RG3322 profile" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=380&lines=Quote-I-Live-By-=-FCK-IT,-WE-BALL." alt="Typing SVG" />
+</p>
+
+
 ---
 
 <details>
