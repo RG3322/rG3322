@@ -4,6 +4,7 @@
 </p>
 
 ---
+https://github-profile-trophy.vercel.app/?username=RG3322&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy
 
 <details>
   <summary>🛠️ <b>Tech Skills</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20"/></summary>
