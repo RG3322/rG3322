@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- Quote section -->
-  <b>Quote I live by</b> = <code>FCK IT, WE BALL.</code>
-</p>
 
 ---
 
