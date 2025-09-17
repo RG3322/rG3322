@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BvdTVhcW1zMWNzY2d1MHMwamg2MDZwY2dlcXE0YXd3ZHJ0em53ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTreuwLIVRz0BUDaJq/giphy.gif" width="120" style="border-radius:50%;" alt="RG3322 profile" /><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BvdTVhcW1zMWNzY2d1MHMwamg2MDZwY2dlcXE0YXd3ZHJ0em53ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTreuwLIVRz0BUDaJq/giphy.gif" width="300" style="border-radius:50%;" alt="RG3322 profile" /><br>
   <!-- Typing effect for intro line -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
 </p>
