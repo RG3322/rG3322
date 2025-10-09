@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BvdTVhcW1zMWNzY2d1MHMwamg2MDZwY2dlcXE0YXd3ZHJ0em53ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTreuwLIVRz0BUDaJq/giphy.gif" width="700" style="border-radius:50%;" alt="RG3322 profile" /><br>
-  <!-- Typing effect for intro line -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=380&lines=I+create+stuff...I+guess." alt="Typing SVG" />
 </p>
-
 
 ---
 
 <details>
   <summary>🛠️ <b>Tech Skills</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20"/></summary>
-  
   <p>
     <img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,xml,firebase,jetpack,gradle,git,sqlite,linux,materialui" height="32" />
   </p>
@@ -19,14 +15,12 @@
     <li>UI/UX, Material Design, Figma, Adobe XD</li>
     <li>Clean Architecture (MVVM, DI, Coroutines, Flows)</li>
   </ul>
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="250"/>
 </details>
 
 ---
 
 <details>
   <summary>💻 <b>Software</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20"/></summary>
-  
   <p>
     <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,vscode,androidstudio,postman,git" height="32" />
   </p>
@@ -34,39 +28,35 @@
     <li>Figma, Adobe XD, Photoshop, Illustrator</li>
     <li>VS Code, Android Studio, Postman, Git</li>
   </ul>
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="200"/>
 </details>
 
 ---
 
 <details>
   <summary>🎨 <b>UI/UX & Design</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-original.svg" height="20"/></summary>
-  
-  - Passion for minimal, functional interfaces.
-  - Prototyping & wireframing in Figma/Adobe XD.
-  - Focus on user-centered design.
-  <br>
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="220"/>
+  <ul>
+    <li>Passion for minimal, functional interfaces.</li>
+    <li>Prototyping & wireframing in Figma/Adobe XD.</li>
+    <li>Focus on user-centered design.</li>
+  </ul>
 </details>
 
 ---
 
 <details>
   <summary>🌱 <b>Currently Learning</b></summary>
-  
-  - Advanced Android Jetpack libraries
-  - Building scalable Firebase backends
-  - MotionLayout & advanced UI animation
-  - System design for mobile apps
-  <br>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="150"/>
+  <ul>
+    <li>Advanced Android Jetpack libraries</li>
+    <li>Building scalable Firebase backends</li>
+    <li>MotionLayout & advanced UI animation</li>
+    <li>System design for mobile apps</li>
+  </ul>
 </details>
 
 ---
 
 <details>
   <summary>📈 <b>GitHub Stats</b></summary>
-  
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RG3322&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue-dark" height="130"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RG3322&theme=vue-dark" height="130"/>
@@ -78,16 +68,10 @@
 
 <details>
   <summary>🌐 <b>Connect with Me</b></summary>
-  
   <p align="left">
     <a href="https://rg3322.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"/></a>
     <a href="mailto:raghavsankhyaan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
     <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
     <a href="https://twitter.com/raghavsankhyaan"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
   </p>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100"/>
 </details>
-
-<!--
-Personalize GIFs/links as needed. Dropdowns/collapsible sections work natively on GitHub!
--->
